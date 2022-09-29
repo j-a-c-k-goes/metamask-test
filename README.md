@@ -1,4 +1,4 @@
-# MetaMask Test DApp
+# MetaMask Test Dapp 🦊
 * [Repo Link](https://github.com/j-a-c-k-goes/metamask-test)
 
 - - -
@@ -11,10 +11,17 @@
 
 ## Setting Up
 1. Clone the Repo
-	`gh repo clone j-a-c-k-goes/metamask-test`
+
+`gh repo clone j-a-c-k-goes/metamask-test`
+- - -
 2. Install Dependencies (listed in package.json)
-	`yarn install`
+
+`yarn install`
+- - -
 3. Start Server (in separate termninal window)
-	`yarn run start`
+
+`yarn run start`
+- - -
 4. Launch App in Browser
-	`open http://localhost:3000`
+
+`open http://localhost:3000`
