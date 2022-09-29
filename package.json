@@ -1,8 +1,5 @@
 {
   "name": "metamask-dev-test",
-  "scripts": {
-    "server": "index.js"
-  },
   "type": "module",
   "version": "1.0.0",
   "description": "Testing bulding with MetaMask",
