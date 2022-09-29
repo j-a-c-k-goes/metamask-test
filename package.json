@@ -1,0 +1,21 @@
+{
+  "name": "metamask-dev-test",
+  "scripts": {
+    "server": "index.js"
+  },
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Testing bulding with MetaMask",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@metamask/providers": "^9.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
